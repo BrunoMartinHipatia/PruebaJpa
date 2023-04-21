@@ -1,0 +1,2 @@
+ALTER TABLE dept
+ADD CONSTRAINT PK_dept PRIMARY KEY (id_dept);
